@@ -1,0 +1,1 @@
+Training project based on Spring in Action, 6th Edition book by Craig Walls.
